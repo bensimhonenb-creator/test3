@@ -50,7 +50,7 @@ export const projects = [
   },
   {
     title: "Book Tons",
-    images: ["./public/._bookt2.webp", "./public/._bookt2.webp"],
+    images: ["./public/._tonbook.webp", "./public/._bookt2.webp"],
     year: 2023,
     href: "./sample-project",
     tags: ["WEB", "UX/UI"],
